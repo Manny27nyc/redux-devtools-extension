@@ -78,7 +78,7 @@
     "react-dom": "^15.4.1",
     "react-icons": "^2.2.1",
     "react-json-tree": "^0.10.9",
-    "react-redux": "^4.4.5",
+    "react-redux": "^7.2.6",
     "redux": "^3.5.2",
     "redux-devtools": "^3.4.1",
     "redux-devtools-instrument": "^1.9.6",
